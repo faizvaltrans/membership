@@ -1,4 +1,7 @@
 Username,Password,Emirate
-superadmin,admin123,All Emirates
-admin1,pass123,Dubai
-admin2,pass456,Sharjah
+admin_dubai,admin123,Dubai
+admin_sharjah,admin123,Sharjah
+admin_ajman,admin123,Ajman
+admin_abudhabi,admin123,Abu Dhabi
+admin_alain,admin123,Al Ain
+admin_north,admin123,Northern Emirates
